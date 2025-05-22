@@ -6,7 +6,7 @@ Some demo conversations between user and SALMONN-omni are provided in the follow
 
 [Click to watch the demo video. (Please click this link to download the video)](./demos/demo.mp4)
 
-Specifically, the video presents five conversations showcasing SALMONN-omni’s ability to handle diverse conversational dynamics, such as context-dependent barge-ins, context-independent barge-ins, backchanneling, and *etc*.
+Specifically, the video presents five conversations showcasing SALMONN-omni’s ability to handle diverse conversational dynamics, such as context-dependent barge-ins, context-independent barge-ins, backchanneling, and *etc*. **Please click the links to download the conversations**.
 
 - [demo-1.wav](./demos/true-contextual-dependent-1.wav): This two-person conversation demonstrates the model’s ability to handle contextual-dependent barge-in. The user says, “Okay, who is your favorite artist? Can you introduce something about him?”—a contextually relevant interruption that cuts off the model.
 - [demo-2.wav](./demos/true-contextual-dependent-2.wav): This two-person conversation demonstrates the model’s ability to handle contextual-dependent barge-in. The user says, “Okay, what about Guangzhou? Tell me some place to have fun in Guangzhou.”—a contextually relevant interruption that cuts off the model.
